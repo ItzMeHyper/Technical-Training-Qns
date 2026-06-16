@@ -1,3 +1,11 @@
+"""
+if n = 4 
+* * * * 
+* * * * 
+* * * *
+* * * *
+"""
+
 n = int(input("Enter the number of rows & columns: "))
 
 for i in range(n):
